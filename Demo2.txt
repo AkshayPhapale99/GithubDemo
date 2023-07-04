@@ -1,3 +1,0 @@
-"Demo2 of git"
-"Updated Demo2 in local folder"
-"Updated again"
